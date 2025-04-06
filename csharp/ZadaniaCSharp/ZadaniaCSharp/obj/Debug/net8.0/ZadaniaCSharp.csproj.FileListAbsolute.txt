@@ -1,0 +1,15 @@
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\bin\Debug\net8.0\ZadaniaCSharp.exe
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\bin\Debug\net8.0\ZadaniaCSharp.deps.json
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\bin\Debug\net8.0\ZadaniaCSharp.runtimeconfig.json
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\bin\Debug\net8.0\ZadaniaCSharp.dll
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\bin\Debug\net8.0\ZadaniaCSharp.pdb
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\ZadaniaCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\ZadaniaCSharp.AssemblyInfoInputs.cache
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\ZadaniaCSharp.AssemblyInfo.cs
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\ZadaniaCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\ZadaniaCSharp.sourcelink.json
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\ZadaniaCSharp.dll
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\refint\ZadaniaCSharp.dll
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\ZadaniaCSharp.pdb
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\ZadaniaCSharp.genruntimeconfig.cache
+C:\Users\Milosz\ProgramowanieZadania\csharp\ZadaniaCSharp\ZadaniaCSharp\obj\Debug\net8.0\ref\ZadaniaCSharp.dll
